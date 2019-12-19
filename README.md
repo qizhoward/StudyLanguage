@@ -1,35 +1,35 @@
 # StudyLanguage
 语言学习
 
-==========
+==========                                 </br>
 English
 
 EN
-----------
-inclube 
-amercia english 
-United Kingdom english
-International english
-more...
----------
+----------                                     </br>
+inclube                                        </br>
+Amercian english                                </br>
+United Kingdom english                         </br>
+International english                          </br>
+more...                                        </br>
+---------                                      </br>
 
-Chinese  Japanese  Russian 
+Chinese  Japanese  Russian                   
 
 
-==========
-Chinese
+==========                                     </br>    
+Chinese                                        </br>  
 
 中文  日文  俄文
 
-==========
-Japanese
+==========                                     </br>
+Japanese                                       </br>
 
 中国語  日本語  ロシア語
 
-==========
-Russian
+==========                                     </br>                                
+Russian                                        </br>
 
-китайский язык  японский  русский язык 
+китайский язык  японский  русский язык         
 
 
 
