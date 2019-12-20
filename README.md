@@ -5,14 +5,13 @@
 English
 
 EN  en-US                                      </br>
-----------                                     </br>
+-----                                          </br>
 inclube                                        </br>
 United States english Amercian english  U.S.A  </br>
 United Kingdom english                         </br>
 International english                          </br>
 more...                                        </br>
-
----------                                      </br>
+-----                                          </br>
 
 Chinese  Japanese  Russian                      
 
